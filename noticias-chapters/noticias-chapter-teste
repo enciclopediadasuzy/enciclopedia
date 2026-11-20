@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script src="https://u.widget.st/ar.js"></script>
+    <title>Enciclopédia da Suzy</title>
+</head>
+<body style="background-color: #3B495E;">
+    <img src="logo.png" alt="enciclopédia da suzy">
+    <a style="color: white;" href="index.html">home</a> <a style="color: white;" href="noticias.html">notícias da suzy</a> <a style="color: white;" href="historias.html">histórias da suzy</a> <a style="color: white;" href="fotos.html">fotos da suzy</a>
+        <h1> NOTÍCIAS </h1>
+        <p> Teste. Ignorar.</p>
+        <ul> 29/08/2026. Criado o Enciclopédia da Suzy. Ignorar.</ul>
+            <ws-widget type="like" iid="3552"></ws-widget>
+            <ws-widget type="comments" iid="9289"></ws-widget>
+            <button onclick="history.back()" class="btn-imagem">
+  <img src="back.png" </button>
+            </button>
+
+</body>
+</html>
